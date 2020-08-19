@@ -240,5 +240,5 @@ var linguJSON = {
 
     ],
     "custom_lang_switcher_container_id": "menu-item-454",
-    "custom_lang_switcher_html": "<div id=\"langswitcher\" class=\"notranslate\"><a href=\"[[linguTargetLangHref1]]\" class=\"targetlang\"><img src=\"[[linguTargetLang1]].svg\" height=\"15\" width=\"20\"></a></div>"
+    "custom_lang_switcher_html": "<div id=\"langswitcher\" class=\"notranslate\"><a href=\"[[linguTargetLangHref1]]\" class=\"targetlang\"><img src=\"http://fedeberge.com.ar/[[linguTargetLang1]].svg\" height=\"15\" width=\"20\"></a></div>"
 }
