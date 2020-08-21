@@ -1,10 +1,10 @@
-﻿/*
+/*
 LICENSE AND TERMS OF USE
 
 Lingumania.js is licensed under the terms of https://creativecommons.org/licenses/by-nd/3.0/ license, 
 which means it can be used freely on commercial or non commercial websites as long as the language switcher links back to www.lingumania.com. 
 You may modify the code only if you use it to translate your own website. In all other cases, modifications or redistribution, 
-whether standalone or as part of another javascript, are not permitted without prior consent of the copyright owners.
+whether standalone or as part of another javascript, are not permitted without prior consent of the copyrightz owners.
 */
 
 (function (w, d, u) {
